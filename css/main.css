@@ -1,0 +1,65 @@
+body{
+	background:#FFFFFF;
+	margin:0;
+	/* overflow:hidden; */
+	padding:0; 
+			}
+
+
+/* text flying */
+
+.suvo-novoborsho li{
+			color:#fff;
+			font:bold 10px Arial,sans-serif;
+			list-style: none;
+			}
+
+.suvo-novoborsho a{
+	text-decoration:none;
+	}
+
+.person{
+	
+	font-size:  40px;
+}
+.person .name .first{
+	color: red;
+}
+
+
+.fc-content h2{
+	margin: 40px 50px 30px 20px;
+}
+
+.fc-content h5{
+	margin: 20px;
+}
+/* .fc-content h4{
+	margin: 130px 0px 0px 30px;
+} */
+.intro{
+	color: yellow;
+}
+
+.intro .one{
+	color: red;
+	font-size: 60px;
+}
+.intro .two{
+	color: red;
+
+}
+
+.intro h4{
+	font-size: 50px;
+	margin: -50px 20px 40px 50px;
+}
+
+.intro h4 .year{
+	color: red;
+}
+
+img{
+	height: 350px;
+	width: 200px;
+}
