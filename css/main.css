@@ -33,6 +33,7 @@ body{
 
 .fc-content h5{
 	margin: 20px;
+
 }
 /* .fc-content h4{
 	margin: 130px 0px 0px 30px;
@@ -60,6 +61,10 @@ body{
 }
 
 img{
-	height: 350px;
-	width: 200px;
+	height: 280px;
+	width: 256px;
+}
+
+.fc-content .last_string{
+	color: black;
 }
